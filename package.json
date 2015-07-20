@@ -1,0 +1,19 @@
+{
+  "name": "node-mongodb-scanner",
+  "version": "0.0.1",
+  "description": "a mongodb server scanner",
+  "author": "szalwia <szalwiaxd@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szalwia/node-mongodb-scanner"
+  },
+  "dependencies": {
+    "mongodb": "2.x",
+    "yargs": "3.x",
+    "async": "1.x"
+  },
+  "preferGlobal": true,
+  "private": true,
+  "license": "ISC"
+}
+
