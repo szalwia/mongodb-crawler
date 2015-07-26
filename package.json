@@ -10,7 +10,9 @@
   "dependencies": {
     "mongodb": "2.x",
     "yargs": "3.x",
-    "async": "1.x"
+    "async": "1.x",
+    "flat": "1.x",
+    "shell-escape": "0.2.0"
   },
   "preferGlobal": true,
   "private": true,
